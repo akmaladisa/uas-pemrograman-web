@@ -29,6 +29,7 @@
         "DB_HOST": "1kl-m.h.filess.io",
         "DB_PORT": "3306",
         "DB_DATABASE": "DB_DATABASE=dbuaslaravel2025_togetheras",
-        "DB_USERNAME": "DB_DATABASE=dbuaslaravel2025_togetheras"
+        "DB_USERNAME": "DB_DATABASE=dbuaslaravel2025_togetheras",
+        "DB_PASSWORD": "d9f36944d56c8d5f8afca34f12231d9cf5fc6e90"
     }
 }
