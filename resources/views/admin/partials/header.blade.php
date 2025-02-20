@@ -2,7 +2,7 @@
 <!doctype html>
 <html lang="en" data-bs-theme="auto">
 <head>
-    <script src="{{ asset('js/color-modes.js') }}"></script>
+    <script src="{{ url('js/color-modes.js') }}"></script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
@@ -10,8 +10,8 @@
     <meta name="generator" content="Hugo 0.122.0">
     <title>Dashboard Template · Bootstrap v5.3</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-    <link href="{{ asset('css/dashboard.css') }}" rel="stylesheet">
-    <link href="{{ asset('css/dashboard-header.css') }}" rel="stylesheet">
+    <link href="{{ url('css/dashboard.css') }}" rel="stylesheet">
+    <link href="{{ url('css/dashboard-header.css') }}" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.min.css" rel="stylesheet">
 </head>
 <body>

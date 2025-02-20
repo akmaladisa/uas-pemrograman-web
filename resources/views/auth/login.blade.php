@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css">
     <style>
         body {
-            background-image: url('{{ asset('images/bg-library.jpg') }}');
+            background-image: url('{{ url('images/bg-library.jpg') }}');
             background-size: cover;
             background-position: center;
             height: 100vh;
