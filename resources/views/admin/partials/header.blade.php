@@ -2,7 +2,7 @@
 <!doctype html>
 <html lang="en" data-bs-theme="auto">
 <head>
-    <script src="{{ url('js/color-modes.js') }}"></script>
+    <script src="https://imagekit.io/public/share/akmaladidotid/a7665f3c489e24925571c83dc57245cb63499ef16b2edf7d3ac733c890fb52273cb815412bcf2b4d14f21c5b058ce6ac2004d5ff76fcea183a71d9ec23ced02cf6f243c958dbd4e1824ce8b38c419165"></script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
@@ -10,8 +10,8 @@
     <meta name="generator" content="Hugo 0.122.0">
     <title>Dashboard Template · Bootstrap v5.3</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-    <link href="{{ url('css/dashboard.css') }}" rel="stylesheet">
-    <link href="{{ url('css/dashboard-header.css') }}" rel="stylesheet">
+    <link href="https://imagekit.io/public/share/akmaladidotid/a7665f3c489e24925571c83dc57245cb63499ef16b2edf7d3ac733c890fb52273cb815412bcf2b4d14f21c5b058ce6acedf3766b3e442f6dbfc70b93cddcd2ad87d71e8627b2527431eaeb053a80e7b2" rel="stylesheet">
+    <link href="https://imagekit.io/public/share/akmaladidotid/a7665f3c489e24925571c83dc57245cb63499ef16b2edf7d3ac733c890fb52273cb815412bcf2b4d14f21c5b058ce6ac1fff4941e7f9b7024c9b8ad566c603bf57c9ce175189ad43107ba8f25b54d7d6" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.min.css" rel="stylesheet">
 </head>
 <body>
