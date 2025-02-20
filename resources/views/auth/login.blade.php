@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css">
     <style>
         body {
-            background-image: url('https://imagekit.io/public/share/akmaladidotid/a7665f3c489e24925571c83dc57245cb63499ef16b2edf7d3ac733c890fb52273cb815412bcf2b4d14f21c5b058ce6ace25c25c12df9a16cab124e0e250ccd5a9a6041ab93a1e77b5cf2d97fabac9816');
+            background-image: url('https://ik.imagekit.io/akmaladidotid/uas%20pemrograman%20web/public/images/bg-library.jpg?updatedAt=1740070776223');
             background-size: cover;
             background-position: center;
             height: 100vh;
